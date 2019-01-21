@@ -1,5 +1,3 @@
 apple
 mango
 banana
-guava
-
